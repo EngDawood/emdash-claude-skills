@@ -1,4 +1,4 @@
-# emdash-claude-plugin
+# emdash-claude-skills
 
 A Claude Code plugin bundling skills and agents for building, debugging, and deploying [EmDash CMS](https://emdashcms.com) sites on Astro + Cloudflare.
 
