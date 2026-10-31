@@ -32,7 +32,7 @@ Investigation pipeline agents (adapted from EmDash CI workflows):
 
 ```bash
 # Install as a Claude Code plugin
-claude plugin install https://github.com/EngDawood/emdash-claude-plugin
+claude plugin install https://github.com/EngDawood/emdash-claude-skills
 ```
 
 ## Usage
